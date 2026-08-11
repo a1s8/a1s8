@@ -15,8 +15,6 @@
 
 - Interested in NLP, LLMs & Behavioral AI
 
-- Deploying AI applications using Streamlit & Render
-
 - Exploring Agentic AI and Human-Centered AI
 
 - Open to AI, NLP & Applied ML opportunities
