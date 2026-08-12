@@ -11,8 +11,6 @@
 
 - MSc Data Science — Aligarh Muslim University
 
-- Building PersonaMood AI
-
 - Interested in NLP, LLMs & Behavioral AI
 
 - Exploring Agentic AI and Human-Centered AI
