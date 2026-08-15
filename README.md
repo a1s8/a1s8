@@ -7,9 +7,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Passionate+about+Data+%26+AI!)](https://git.io/typing-svg)
 
-## 🚀 Featured Project
+## Featured Project
 
-#### 🧠 PersonaMood AI
+### 🧠 PersonaMood AI
 
 A psychology-inspired conversational AI system that adapts responses using mood and personality analysis.
 
