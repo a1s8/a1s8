@@ -7,19 +7,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Passionate+about+Data+%26+AI!)](https://git.io/typing-svg)
 
-## 🔬 About Me:
-
-- MSc Data Science — Aligarh Muslim University
-
-- Interested in NLP, LLMs & Behavioral AI
-
-- Exploring Agentic AI and Human-Centered AI
-
-- Open to AI, NLP & Applied ML opportunities
-
 ## 🚀 Featured Project
 
-### 🧠 PersonaMood AI
+#### 🧠 PersonaMood AI
 
 A psychology-inspired conversational AI system that adapts responses using mood and personality analysis.
 
@@ -33,7 +23,7 @@ A psychology-inspired conversational AI system that adapts responses using mood 
 
 🔗 Repository: https://github.com/ayesha-a10/personamood-ai
 
-## Skills
+## Skills & Tools
 
 `AI` • `ML` • `DL` • `Neural Networks` • `NLP` • `LLMs` • `Prompt Engineering` • `LangChain` • `RAG` • `Python` • `R` • `SQL` • `Git` • `GitHub` 
 
